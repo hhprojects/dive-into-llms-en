@@ -10,7 +10,7 @@
 
 ### 1.1 Understanding the technical roadmap and research state of GUI agent systems
 
-Read the tutorial: [[Slides](https://github.com/Lordog/dive-into-llms/blob/main/documents/chapter8/GUIagent.pdf)]
+Read the tutorial: [[Slides](https://github.com/hhprojects/dive-into-llms-en/blob/main/documents/chapter8/GUIagent.pdf)]
 
 ### 1.2 Understanding adaptive human-computer interaction GUI agents
 

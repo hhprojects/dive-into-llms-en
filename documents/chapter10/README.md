@@ -15,7 +15,7 @@ Introduction: This section introduces the construction of LLM agents and securit
 
 ### 1.1 Understanding LLM Agents
 
-Read the tutorial: [[Slides](https://github.com/Lordog/dive-into-llms/blob/main/documents/chapter7/agents.pdf)]
+Read the tutorial: [[Slides](https://github.com/hhprojects/dive-into-llms-en/blob/main/documents/chapter7/agents.pdf)]
 
 ### 1.2 Understanding "Autonomous Operating Systems" Powered by LLM Agents
 

@@ -29,7 +29,7 @@ We categorize existing MLLMs into different types based on their modality suppor
 ![mllm](assets/MLLM-summary.png)
 
 
-- Read the complete tutorial: [[Slides](https://github.com/Lordog/dive-into-llms/blob/main/documents/chapter6/mllms.pdf)] 
+- Read the complete tutorial: [[Slides](https://github.com/hhprojects/dive-into-llms-en/blob/main/documents/chapter6/mllms.pdf)] 
 
 
 - More related surveys
